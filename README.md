@@ -1,4 +1,4 @@
-# Day--5-Blurry-Loading# 
+# Day 5 Blurry Loading
 <hr>
 
 ### 📋 Descrição
